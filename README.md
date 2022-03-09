@@ -50,6 +50,3 @@ gamified intensive peer to peer bootcamp.
         42 Adelaide is a 24/7 school open at all times therefore it was crucial to develop my time 
         management skills in order to remain on task and keep progressing on the massive workload.
 
-
-![42-Adelaide-School](https://user-images.githubusercontent.com/89724783/153709352-71c028c8-6488-4279-ba5e-5cec96711449.jpg)
-  (I am on the left) HI 👋
