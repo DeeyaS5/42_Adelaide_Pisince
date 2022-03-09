@@ -1,4 +1,4 @@
-# 42 Piscine (Nov2021)
+# 42 Piscine (Jan2021)
 This repository contains code developed at the 42 Piscine and a summary of my experience, at the 28-day 
 gamified intensive peer to peer bootcamp.
 
